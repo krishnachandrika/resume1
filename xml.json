@@ -1,0 +1,61 @@
+{
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+		{
+			"degree":"SSC",
+			"school":"st joseph school",
+			"data":["2013","93%"]
+		},
+		{
+			"degree":"Inter/Diploma",
+			"school":"Narayana college",
+			"data":["2013-15","90%"]
+		},
+		{
+			"degree":"B-Tech(CSE)",
+			"school":"GPCET",
+			"data":["2015-19","80%"]
+		}
+	],
+
+	 "skills":[
+
+    {
+    	"name":"Operating system",
+    	"info":["win-10","Fedora","redHat","ubuntu"]
+
+    },
+
+    {
+    	"name":"Languages",
+    	"info":["C","C#","R","python","php"]
+     },
+  
+    {
+    	"name":"DataBases",
+    	"info":["MySql","Oracle","mongoDB","PDO"]
+
+    },
+    
+    {
+    	"name":"Web Technologies",
+    	"info":["HTML","JavaScript","CSS"]
+
+    },
+    
+    {
+    	"name":"Farmes Works",
+    	"info":[".Net","Bootstrap","CodeIgniter"]
+
+    },
+    
+    {
+    	"name":"libraries",
+    	"info":["JQuery"]
+
+    }
+    ]
+}
+

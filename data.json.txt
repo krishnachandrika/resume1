@@ -1,0 +1,5 @@
+{
+"carrer":{
+"info":"Writing a Resume Objective statement is a smart way to capture the attention of the hiring manager, if written correctly. Unfortunately, most people misunderstand what an objective is supposed to say";
+}
+}
